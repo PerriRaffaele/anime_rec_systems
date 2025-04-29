@@ -4,3 +4,5 @@ venv/
 
 data/*.csv
 
+# Ignore image files
+*.png
